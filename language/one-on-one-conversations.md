@@ -17,3 +17,15 @@
 ** How can we learn to talk better?
 ** What is the real goal of a conversation?
 ** How can we see that a conversation worked?
+
+# Observations about the Meno
+
+* Meno starts the conversation
+* Socrates affirms Meno's ability to descover the answer
+* Socrates uses analogy
+* Socrates reflects on how questions are answered
+* Socrates demonstrates how to reason about a similar--but different--question
+* Meno ultimately gives a definition of virtue
+* Meno gets confused (think about the mention of Gorgias at the beginning)
+* "There is no teaching, but only recollection"
+* Confusion as a motivator
